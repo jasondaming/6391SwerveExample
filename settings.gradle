@@ -28,6 +28,3 @@ pluginManagement {
         }
     }
 }
-
-include 'SwerveLibrary'
-project(':SwerveLibrary').projectDir = new File('../../')
